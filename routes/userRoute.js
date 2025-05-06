@@ -1,5 +1,5 @@
-import express from "express"
-import { fetch } from "../controller/userController.js"
+import express from "express";
+import { fetch } from "../controller/userController.js";
 
 const route = express.Router();
 
